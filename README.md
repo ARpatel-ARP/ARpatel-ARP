@@ -161,9 +161,10 @@ public class AnkitRautPatel {
 ## 🏅 Certifications & Achievements
 
 <p>
+  <a href="https://drive.google.com/file/d/1J10NqWET2t9n4P3WG98M0tpdQA93jf9_/view">
   <img src="https://img.shields.io/badge/Google%20AI--ML%20Virtual%20Internship-EduSkills%20%7C%20AICTE%20%7C%20Oct–Dec%202025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats

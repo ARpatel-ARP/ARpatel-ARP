@@ -161,8 +161,8 @@ public class AnkitRautPatel {
 ## 🏅 Certifications & Achievements
 
 <p>
- <a href="https://movie-hunt-89nk.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-white?style=for-the-badge&logo=render&logoColor=black&labelColor=46E3B7&color=white" />
+ <a href="https://drive.google.com/file/d/1J10NqWET2t9n4P3WG98M0tpdQA93jf9_/view">
+  <img src="https://img.shields.io/badge/Google%20AI--ML%20Virtual%20Internship-EduSkills%20%7C%20AICTE%20%7C%20Oct–Dec%202025-4285F4?style=for-the-badge&logo=google&logoColor=white&color=white" />
 </a>
 </p>
 ---

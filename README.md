@@ -105,7 +105,7 @@ public class AnkitRautPatel {
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://movie-hunt-89nk.onrender.com">
-          <img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />>
         </a>
       </p>
     </td>
@@ -122,7 +122,7 @@ public class AnkitRautPatel {
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://convohub-ju3o.onrender.com">
-          <img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />
         </a>
       </p>
     </td>

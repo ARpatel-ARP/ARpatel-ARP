@@ -198,17 +198,6 @@ public class AnkitRautPatel {
 
 ---
 
-## 🎯 Current Goals
-
-- [ ] 🌿 Build a **complete MERN Stack app** (MongoDB + Express + React + Node)
-- [ ] 🔢 Solve **300+ DSA problems** on LeetCode
-- [ ] 🌐 Build a **Full Stack Web Project**
-- [ ] 📖 Master **Java OOP & Collections**
-- [ ] 🤝 Make my first **Open Source contribution**
-- [ ] 🎓 Crack **MCA Entrance Exams** (NIMCET / IPU CET)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">

@@ -169,10 +169,7 @@ public class AnkitRautPatel {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" width="49%" />
-</div>
+
 
 <br/>
 

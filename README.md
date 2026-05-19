@@ -168,11 +168,6 @@ public class AnkitRautPatel {
 ---
 
 ## 📊 GitHub Stats
-
-
-
-<br/>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ARpatel-ARP&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=565f89" width="60%" />
 </div>
@@ -198,9 +193,7 @@ public class AnkitRautPatel {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/ARpatel-ARP">
-    <img src="https://img.shields.io/badge/GitHub-ARpatel--ARP-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+ 
   <a href="mailto:rautanky407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

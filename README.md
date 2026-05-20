@@ -170,13 +170,13 @@ public class AnkitRautPatel {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ARpatel-ARP&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ARpatel-ARP&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -186,7 +186,6 @@ public class AnkitRautPatel {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ARpatel-ARP&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
 ---
 ## 🏆 GitHub Trophies
 

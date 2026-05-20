@@ -167,35 +167,27 @@ public class AnkitRautPatel {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<!-- LIVE-STATS:START -->
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **16** |
-| 👥 Followers | **5** |
-| ⭐ Total Stars | **5** |
-| 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **287** |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ARpatel-ARP&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
-### 🔥 Contribution Streak *(full year via GraphQL)*
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
 
-| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
-|:-----------------:|:-----------------:|:--------------------:|
-| **23 days** | **23 days** | **64** |
-| 04/28 → 05/20 | 04/28 → 05/20 | this year |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ARpatel-ARP&theme=tokyonight" />
+</p>
 
-### 🗂️ Top Languages
-
-`JavaScript    ` ██████████████░░░░░░ 69%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 15%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
-
-> ⏱️ *Auto-updated: Wed, 20 May 2026 03:54:47 GMT*
-<!-- LIVE-STATS:END -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARpatel-ARP&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <div align="center">

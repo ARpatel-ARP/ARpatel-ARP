@@ -105,7 +105,7 @@ public class AnkitRautPatel {
           <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://movie-hunt-89nk.onrender.com">
-         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />>
+         <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=render&logoColor=white" />
         </a>
       </p>
     </td>
@@ -146,7 +146,6 @@ public class AnkitRautPatel {
       </p>
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder for future project -->
       <h3>🛠️ More Coming Soon...</h3>
       <p>Always building something new. Stay tuned for the next project! 🚀</p>
       <p>
@@ -165,9 +164,14 @@ public class AnkitRautPatel {
   <img src="https://img.shields.io/badge/Google%20AI--ML%20Virtual%20Internship-EduSkills%20%7C%20AICTE%20%7C%20Oct–Dec%202025-4285F4?style=for-the-badge&logo=google&logoColor=white&color=white" />
 </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
+
+<!-- LIVE-STATS:START -->
+<!-- LIVE-STATS:END -->
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ARpatel-ARP&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=565f89" width="60%" />
 </div>
@@ -193,7 +197,6 @@ public class AnkitRautPatel {
 ## 📫 Connect With Me
 
 <div align="center">
- 
   <a href="mailto:rautanky407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

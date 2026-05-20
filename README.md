@@ -222,29 +222,3 @@ public class AnkitRautPatel {
 </div>
 
 
-## 📊 Live GitHub Stats
-
-<!-- LIVE-STATS:START -->
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **16** |
-| 👥 Followers | **5** |
-| ⭐ Total Stars | **5** |
-| 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **288** |
-
-### 🔥 Contribution Streak *(full year via GraphQL)*
-
-| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
-|:-----------------:|:-----------------:|:--------------------:|
-| **23 days** | **23 days** | **64** |
-| 04/28 → 05/20 | 04/28 → 05/20 | this year |
-
-### 🗂️ Top Languages
-
-`JavaScript    ` ██████████████░░░░░░ 69%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 15%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
-
-> ⏱️ *Auto-updated: Wed, 20 May 2026 03:58:50 GMT*
-<!-- LIVE-STATS:END -->

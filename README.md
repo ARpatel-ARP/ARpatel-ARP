@@ -194,10 +194,6 @@ public class AnkitRautPatel {
 > ⏱️ *Auto-updated: Wed, 20 May 2026 03:51:00 GMT*
 <!-- LIVE-STATS:END -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ARpatel-ARP&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=565f89" width="60%" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies

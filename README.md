@@ -221,19 +221,6 @@ public class AnkitRautPatel {
 </div>
 
 
-
-
-## 📊 Live GitHub Stats
-
-<!-- LIVE-STATS:START -->
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **16** |
-| 👥 Followers | **5** |
-| ⭐ Total Stars | **5** |
-| 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **290** |
-
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |

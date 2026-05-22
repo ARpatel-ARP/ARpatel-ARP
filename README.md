@@ -220,24 +220,6 @@ public class AnkitRautPatel {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=565F89&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+explore+my+repos+%E2%AD%90;Let's+connect+and+build+together+%F0%9F%A4%9D" />
 </div>
 
-
-### 🔥 Contribution Streak *(full year via GraphQL)*
-
-| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
-|:-----------------:|:-----------------:|:--------------------:|
-| **0 days** | **23 days** | **64** |
-| N/A → N/A | 04/28 → 05/20 | this year |
-
-### 🗂️ Top Languages
-
-`JavaScript    ` ██████████████░░░░░░ 69%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 15%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
-
-> ⏱️ *Auto-updated: Thu, 21 May 2026 14:57:35 GMT*
-<!-- LIVE-STATS:END -->
-
-
 ## 📊 Live GitHub Stats
 
 <!-- LIVE-STATS:START -->
@@ -263,32 +245,4 @@ public class AnkitRautPatel {
 `HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
 
 > ⏱️ *Auto-updated: Thu, 21 May 2026 19:48:36 GMT*
-<!-- LIVE-STATS:END -->
-
-
-## 📊 Live GitHub Stats
-
-<!-- LIVE-STATS:START -->
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **16** |
-| 👥 Followers | **5** |
-| ⭐ Total Stars | **5** |
-| 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **290** |
-
-### 🔥 Contribution Streak *(full year via GraphQL)*
-
-| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
-|:-----------------:|:-----------------:|:--------------------:|
-| **0 days** | **23 days** | **64** |
-| N/A → N/A | 04/28 → 05/20 | this year |
-
-### 🗂️ Top Languages
-
-`JavaScript    ` ██████████████░░░░░░ 69%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 15%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
-
-> ⏱️ *Auto-updated: Thu, 21 May 2026 15:14:03 GMT*
 <!-- LIVE-STATS:END -->

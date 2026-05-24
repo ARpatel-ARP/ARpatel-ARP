@@ -229,20 +229,21 @@ public class AnkitRautPatel {
 | 👥 Followers | **5** |
 | ⭐ Total Stars | **5** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **326** |
+| 🟩 Total Contributions (this year) | **329** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **27 days** | **27 days** | **68** |
+| **27 days** | **27 days** | **69** |
 | 04/28 → 05/24 | 04/28 → 05/24 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` ██████████████░░░░░░ 69%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 15%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
+`JavaScript    ` █████████████░░░░░░░ 64%
+`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 14%
+`HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
-> ⏱️ *Auto-updated: Sun, 24 May 2026 13:17:02 GMT*
+> ⏱️ *Auto-updated: Sun, 24 May 2026 19:11:50 GMT*
 <!-- LIVE-STATS:END -->

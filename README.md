@@ -235,8 +235,8 @@ public class AnkitRautPatel {
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **34 days** | **34 days** | **75** |
-| 04/28 → 05/31 | 04/28 → 05/31 | this year |
+| **0 days** | **34 days** | **75** |
+| N/A → N/A | 04/28 → 05/31 | this year |
 
 ### 🗂️ Top Languages
 
@@ -245,5 +245,5 @@ public class AnkitRautPatel {
 `HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
-> ⏱️ *Auto-updated: Sun, 31 May 2026 19:10:20 GMT*
+> ⏱️ *Auto-updated: Mon, 01 Jun 2026 03:36:52 GMT*
 <!-- LIVE-STATS:END -->

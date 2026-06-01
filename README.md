@@ -185,32 +185,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 # ⚡ Live Developer Snapshot
 
 <!-- LIVE-STATS:START -->
-
 | Metric | Value |
-|---------|---------|
+|--------|-------|
 | 📦 Public Repos | **16** |
 | 👥 Followers | **6** |
 | ⭐ Total Stars | **5** |
 | 🍴 Total Forks | **0** |
-| 🟩 Contributions (2026) | **398** |
+| 🟩 Total Contributions (this year) | **398** |
 
-### 🔥 Contribution Consistency
+### 🔥 Contribution Streak *(full year via GraphQL)*
 
-| Metric | Value |
-|---------|---------|
-| 🟢 Current Streak | **0 Days** |
-| 🏆 Longest Streak | **34 Days** |
-| 💻 Active Days | **75** |
+| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
+|:-----------------:|:-----------------:|:--------------------:|
+| **0 days** | **34 days** | **75** |
+| N/A → N/A | 04/28 → 05/31 | this year |
 
-### 🧠 Top Languages
+### 🗂️ Top Languages
 
-```text
-JavaScript   ████████████████░░░░ 64%
-TypeScript   ████░░░░░░░░░░░░░░░░ 14%
-HTML         ████░░░░░░░░░░░░░░░░ 14%
-Java         ██░░░░░░░░░░░░░░░░░░  7%
-```
+`JavaScript    ` █████████████░░░░░░░ 64%
+`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 14%
+`HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
+> ⏱️ *Auto-updated: Mon, 01 Jun 2026 13:29:10 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

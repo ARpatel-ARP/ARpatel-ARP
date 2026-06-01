@@ -66,32 +66,42 @@ motto:
 ## Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,js,html,css"/>
-
 </p>
 
 ## Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs"/>
 </p>
 
 ## Backend
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-
 </p>
 
 ## Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+## Additional Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
 
 </p>
 
@@ -111,11 +121,14 @@ motto:
 - Cloudinary Uploads
 - Razorpay Payments
 - Admin Dashboard
+- Lecture Management
+- Protected Routes
 
-**Tech Stack**
+### Tech Stack
 
-`React` `Redux Toolkit` `Node.js`
-`Express` `MongoDB` `Cloudinary`
+`React` `Redux Toolkit` `RTK Query`
+`Node.js` `Express`
+`MongoDB` `Cloudinary`
 `Razorpay`
 
 ---
@@ -148,12 +161,12 @@ Movie discovery platform built using MERN
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=ARpatel-ARP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=ARpatel-ARP&theme=tokyonight&hide_border=true"/>
@@ -169,11 +182,54 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 ---
 
+# ⚡ Live Developer Snapshot
+
+<!-- LIVE-STATS:START -->
+
+| Metric | Value |
+|---------|---------|
+| 📦 Public Repos | **16** |
+| 👥 Followers | **6** |
+| ⭐ Total Stars | **5** |
+| 🍴 Total Forks | **0** |
+| 🟩 Contributions (2026) | **398** |
+
+### 🔥 Contribution Consistency
+
+| Metric | Value |
+|---------|---------|
+| 🟢 Current Streak | **0 Days** |
+| 🏆 Longest Streak | **34 Days** |
+| 💻 Active Days | **75** |
+
+### 🧠 Top Languages
+
+```text
+JavaScript   ████████████████░░░░ 64%
+TypeScript   ████░░░░░░░░░░░░░░░░ 14%
+HTML         ████░░░░░░░░░░░░░░░░ 14%
+Java         ██░░░░░░░░░░░░░░░░░░  7%
+```
+
+<!-- LIVE-STATS:END -->
+
+---
+
 # 🏆 GitHub Achievements
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ARpatel-ARP&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARpatel-ARP&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -209,16 +265,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 ---
 
+# 🏅 Certifications
+
+### Google AI-ML Virtual Internship
+
+EduSkills | AICTE | Oct–Dec 2025
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rautanky407@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ankit-raut-4a6900312/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -229,33 +293,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 ### ⭐ If you like my projects, consider starring them!
 
+Building • Learning • Shipping 🚀
+
 </div>
-
-
-## 📊 Live GitHub Stats
-
-<!-- LIVE-STATS:START -->
-| Metric | Value |
-|--------|-------|
-| 📦 Public Repos | **16** |
-| 👥 Followers | **6** |
-| ⭐ Total Stars | **5** |
-| 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **398** |
-
-### 🔥 Contribution Streak *(full year via GraphQL)*
-
-| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
-|:-----------------:|:-----------------:|:--------------------:|
-| **0 days** | **34 days** | **75** |
-| N/A → N/A | 04/28 → 05/31 | this year |
-
-### 🗂️ Top Languages
-
-`JavaScript    ` █████████████░░░░░░░ 64%
-`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 14%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
-`Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
-
-> ⏱️ *Auto-updated: Mon, 01 Jun 2026 13:22:47 GMT*
-<!-- LIVE-STATS:END -->

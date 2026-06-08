@@ -246,16 +246,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 <div align="center">
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/Ankit_Raut/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_GFG">
+<a href="https://www.geeksforgeeks.org/profile/rautan9k6d">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
 </div>

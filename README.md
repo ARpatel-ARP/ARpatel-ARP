@@ -260,7 +260,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 # 🏅 Certifications
 
-### Google AI-ML Virtual Internship
+<a href="https://drive.google.com/file/d/1J10NqWET2t9n4P3WG98M0tpdQA93jf9_/view">
+### Google AI-ML Virtual Internship</a>
 
 EduSkills | AICTE | Oct–Dec 2025
 

@@ -193,14 +193,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 | 👥 Followers | **6** |
 | ⭐ Total Stars | **5** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **461** |
+| 🟩 Total Contributions (this year) | **468** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **0 days** | **42 days** | **83** |
-| N/A → N/A | 04/28 → 06/08 | this year |
+| **43 days** | **43 days** | **84** |
+| 04/28 → 06/09 | 04/28 → 06/09 | this year |
 
 ### 🗂️ Top Languages
 
@@ -209,7 +209,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 `HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
-> ⏱️ *Auto-updated: Tue, 09 Jun 2026 02:44:18 GMT*
+> ⏱️ *Auto-updated: Tue, 09 Jun 2026 09:34:41 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

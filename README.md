@@ -133,7 +133,7 @@ motto:
 
 ---
 ## RESUME:
-<a href="file:///C:/Users/nehar/Downloads/Ankit%20Raut%20-%20Resumfe.pdf">Ankit-Resume<a/>
+<a href="https://drive.google.com/file/d/1wb0rrTtFfgKs2vt6JfoCYjabzP_TbSmz/view?usp=sharing">Ankit-Resume<a/>
 
 ## 💬 ConvoHub
 <a href="https://convohub-ju3o.onrender.com">Live Link<a/>

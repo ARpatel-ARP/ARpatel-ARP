@@ -147,7 +147,8 @@ Real-time chat platform built using Socket.io
 ✅ Responsive UI
 
 ---
-
+## RESUME:
+<a href="https://drive.google.com/file/d/1gosRYS6T1igCzZumieQ3044IVUSy74ld/view"><a/>
 ## 🎬 MovieHunt
 <a href="https://movie-hunt-89nk.onrender.com">Live Link<a/>
 

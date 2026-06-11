@@ -111,9 +111,6 @@ motto:
 <a href="https://drive.google.com/file/d/1wb0rrTtFfgKs2vt6JfoCYjabzP_TbSmz/view?usp=sharing">Ankit-Resume<a/>
 
 # 🌟 Featured Projects
----
-
-----
 
 ## 🎓 LMS - Online Learning
 <a href="https://lmsonlinelearning.vercel.app">Live Link<a/>

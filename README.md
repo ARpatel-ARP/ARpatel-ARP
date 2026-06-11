@@ -107,37 +107,15 @@ motto:
 
 ---
 
-# 🌟 Featured Projects
-
-## 🎓 LMS Platform (Current)
-
-> Full Stack Learning Management System
-
-### Features
-
-- JWT Authentication
-- RTK Query
-- Course Management
-- Cloudinary Uploads
-- Razorpay Payments
-- Admin Dashboard
-- Lecture Management
-- Protected Routes
-
-### Tech Stack
-
-`React` `Redux Toolkit` `RTK Query`
-`Node.js` `Express`
-`MongoDB` `Cloudinary`
-`Razorpay`
-
----
 ## RESUME:
 <a href="https://drive.google.com/file/d/1wb0rrTtFfgKs2vt6JfoCYjabzP_TbSmz/view?usp=sharing">Ankit-Resume<a/>
 
+# 🌟 Featured Projects
+---
+
 ----
 
-## LMS - Online Learning
+## 🎓 LMS - Online Learning
 <a href="https://lmsonlinelearning.vercel.app">Live Link<a/>
 
 ✅ Developed a full-stack Learning Management System using the MERN stack for managing online courses and learners

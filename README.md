@@ -135,18 +135,34 @@ motto:
 ## RESUME:
 <a href="https://drive.google.com/file/d/1wb0rrTtFfgKs2vt6JfoCYjabzP_TbSmz/view?usp=sharing">Ankit-Resume<a/>
 
-## 💬 ConvoHub
-<a href="https://convohub-ju3o.onrender.com">Live Link<a/>
+----
 
-Real-time chat platform built using Socket.io
+## LMS - Online Learning
+<a href="https://lmsonlinelearning.vercel.app">Live Link<a/>
 
-✅ Authentication
+✅ Developed a full-stack Learning Management System using the MERN stack for managing online courses and learners
 
-✅ Real-time Messaging
+✅ Implemented user authentication and role-based access for students and instructors
 
-✅ Online Presence
+✅ Deployed the application on Vercel for seamless full-stack functionality
 
-✅ Responsive UI
+✅ Features :
+
+JWT Authentication,
+
+RTK Query,
+
+Course Management,
+
+Cloudinary Uploads,
+
+Mock Payments,
+
+Admin Dashboard,
+
+Lecture Management,
+
+Protected Routes,
 
 ---
 
@@ -162,6 +178,21 @@ Movie discovery platform built using MERN
 ✅ Dynamic Routing
 
 ✅ API Integration
+
+---
+
+## 💬 ConvoHub
+<a href="https://convohub-ju3o.onrender.com">Live Link<a/>
+
+Real-time chat platform built using Socket.io
+
+✅ Authentication
+
+✅ Real-time Messaging
+
+✅ Online Presence
+
+✅ Responsive UI
 
 ---
 

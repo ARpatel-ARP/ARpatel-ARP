@@ -207,8 +207,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **45 days** | **45 days** | **86** |
-| 04/28 → 06/11 | 04/28 → 06/11 | this year |
+| **0 days** | **45 days** | **86** |
+| N/A → N/A | 04/28 → 06/11 | this year |
 
 ### 🗂️ Top Languages
 
@@ -217,7 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARpatel-ARP&
 `TypeScript    ` ███░░░░░░░░░░░░░░░░░ 13%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
-> ⏱️ *Auto-updated: Thu, 11 Jun 2026 20:15:41 GMT*
+> ⏱️ *Auto-updated: Fri, 12 Jun 2026 03:32:08 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

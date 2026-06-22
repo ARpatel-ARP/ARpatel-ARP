@@ -51,34 +51,47 @@ function ghGraphQL(query) {
 }
 
 function calcStreak(commitDays) {
-  // Build array of all days in the past year
   const today = new Date();
+  // Use IST offset (UTC+5:30 = 330 minutes) so "today" matches your local date
+  const IST_OFFSET_MS = 5.5 * 60 * 60 * 1000;
+  const todayIST = new Date(today.getTime() + IST_OFFSET_MS);
+  const todayStr = todayIST.toISOString().slice(0, 10);
+
+  // Build rolling 365-day list ending today (IST)
   const allDays = [];
   for (let i = 364; i >= 0; i--) {
-    const d = new Date(today);
+    const d = new Date(todayIST);
     d.setDate(d.getDate() - i);
     allDays.push(d.toISOString().slice(0, 10));
   }
 
-  let cur = 0, longest = 0, temp = 0, total = 0;
+  // Current streak — go backwards from today
+  // IMPORTANT: if today has no commits yet, start from yesterday (streak not broken)
+  let cur = 0;
   let sStart = '', sEnd = '';
-  let longestStart = '', longestEnd = '', tempStart = '';
 
-  // current streak — count backwards from today
-  for (let i = allDays.length - 1; i >= 0; i--) {
+  const startIdx = commitDays[todayStr]
+    ? allDays.length - 1          // today has commits, start from today
+    : allDays.length - 2;         // today empty, allow starting from yesterday
+
+  for (let i = startIdx; i >= 0; i--) {
     const d = allDays[i];
     if (commitDays[d]) {
       cur++;
       if (!sEnd) sEnd = d;
       sStart = d;
-    } else break;
+    } else {
+      break;
+    }
   }
 
-  // longest streak in the year
+  // Longest streak
+  let temp = 0, longest = 0;
+  let tempStart = '', longestStart = '', longestEnd = '';
+
   allDays.forEach(d => {
     if (commitDays[d]) {
       temp++;
-      total += commitDays[d];
       if (!tempStart) tempStart = d;
       if (temp > longest) {
         longest = temp;
@@ -91,14 +104,16 @@ function calcStreak(commitDays) {
     }
   });
 
+  const fmt = s => s ? s.slice(5).replace('-', '/') : 'N/A';
+
   return {
     cur,
     longest,
-    total,
-    sStart: sStart ? sStart.slice(5).replace('-', '/') : 'N/A',
-    sEnd:   sEnd   ? sEnd.slice(5).replace('-', '/')   : 'N/A',
-    lStart: longestStart ? longestStart.slice(5).replace('-', '/') : 'N/A',
-    lEnd:   longestEnd   ? longestEnd.slice(5).replace('-', '/')   : 'N/A',
+    total: Object.values(commitDays).reduce((a, b) => a + b, 0),
+    sStart: fmt(sStart),
+    sEnd:   fmt(sEnd),
+    lStart: fmt(longestStart),
+    lEnd:   fmt(longestEnd),
   };
 }
 

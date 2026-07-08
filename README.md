@@ -176,27 +176,27 @@ Real-time chat platform built using Socket.io
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | **19** |
+| 📦 Public Repos | **20** |
 | 👥 Followers | **7** |
-| ⭐ Total Stars | **5** |
+| ⭐ Total Stars | **6** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **915** |
+| 🟩 Total Contributions (this year) | **917** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **3 days** | **67 days** | **111** |
-| 07/05 → 07/07 | 04/28 → 07/03 | this year |
+| **4 days** | **67 days** | **112** |
+| 07/05 → 07/08 | 04/28 → 07/03 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` █████████████░░░░░░░ 67%
-`HTML          ` ████░░░░░░░░░░░░░░░░ 20%
-`Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
-`TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 7%
+`JavaScript    ` █████████████░░░░░░░ 63%
+`HTML          ` ████░░░░░░░░░░░░░░░░ 19%
+`TypeScript    ` ███░░░░░░░░░░░░░░░░░ 13%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Wed, 08 Jul 2026 02:14:54 GMT*
+> ⏱️ *Auto-updated: Wed, 08 Jul 2026 07:49:09 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

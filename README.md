@@ -186,8 +186,8 @@ Real-time chat platform built using Socket.io
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **2 days** | **67 days** | **123** |
-| 07/20 → 07/21 | 04/28 → 07/03 | this year |
+| **0 days** | **67 days** | **123** |
+| N/A → N/A | 04/28 → 07/03 | this year |
 
 ### 🗂️ Top Languages
 
@@ -197,7 +197,7 @@ Real-time chat platform built using Socket.io
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `CSS           ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Wed, 22 Jul 2026 13:41:08 GMT*
+> ⏱️ *Auto-updated: Wed, 22 Jul 2026 19:07:53 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

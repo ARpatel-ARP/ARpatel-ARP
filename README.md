@@ -176,11 +176,11 @@ Real-time chat platform built using Socket.io
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | **23** |
+| 📦 Public Repos | **22** |
 | 👥 Followers | **8** |
 | ⭐ Total Stars | **6** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **1026** |
+| 🟩 Total Contributions (this year) | **1029** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
@@ -191,13 +191,13 @@ Real-time chat platform built using Socket.io
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` ████████████░░░░░░░░ 62%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 14%
+`JavaScript    ` █████████████░░░░░░░ 65%
+`HTML          ` ███░░░░░░░░░░░░░░░░░ 15%
 `TypeScript    ` ██░░░░░░░░░░░░░░░░░░ 10%
-`Python        ` █░░░░░░░░░░░░░░░░░░░ 5%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 5%
+`C#            ` █░░░░░░░░░░░░░░░░░░░ 5%
 
-> ⏱️ *Auto-updated: Tue, 04 Aug 2026 13:59:51 GMT*
+> ⏱️ *Auto-updated: Tue, 04 Aug 2026 19:24:34 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

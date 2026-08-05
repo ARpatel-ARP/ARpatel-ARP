@@ -15,15 +15,17 @@ name: Ankit Raut
 location: India 🇮🇳
 
 currently_learning:
+  - Gen-Ai , RAG, LLMs
   - Advanced MERN Stack
-  - System Design Fundamentals
   - Next.js
+  - System Design Fundamentals
   - Payment Gateway Integration
 
 currently_building:
-  - Learning Management System (LMS)
+  - Gen-Ai foundation
 
 interests:
+  - Gen-Ai, LLMs, VLMs, 
   - Full Stack Development
   - Real Time Applications
   - Open Source

@@ -54,7 +54,7 @@ motto:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python,ts,c#"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python,ts,cs"/>
 </p>
 
 ## Frontend

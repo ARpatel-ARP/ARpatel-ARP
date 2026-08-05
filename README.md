@@ -3,22 +3,12 @@
 <h1 align="center">Hi 👋, I'm Ankit Raut</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
+Full Stack MERN + Gen-Ai Developer • Java DSA Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+DSA+%7C+MERN+Stack;Currently+Building+an+LMS+Platform;Always+Learning+Something+New+🚀" />
 </p>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ARpatel-ARP&style=for-the-badge&color=70A5FD)
-
-![Followers](https://img.shields.io/github/followers/ARpatel-ARP?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/ARpatel-ARP?style=for-the-badge)
-
-</div>
 
 ---
 

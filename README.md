@@ -165,7 +165,7 @@ Real-time chat platform built using Socket.io
 | Metric | Value |
 |--------|-------|
 | 📦 Public Repos | **24** |
-| 👥 Followers | **8** |
+| 👥 Followers | **7** |
 | ⭐ Total Stars | **6** |
 | 🍴 Total Forks | **0** |
 | 🟩 Total Contributions (this year) | **1094** |
@@ -185,7 +185,7 @@ Real-time chat platform built using Socket.io
 `Python        ` █░░░░░░░░░░░░░░░░░░░ 5%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 5%
 
-> ⏱️ *Auto-updated: Thu, 10 Sep 2026 10:28:37 GMT*
+> ⏱️ *Auto-updated: Thu, 10 Sep 2026 15:44:25 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

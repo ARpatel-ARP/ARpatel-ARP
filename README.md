@@ -164,28 +164,28 @@ Real-time chat platform built using Socket.io
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | **26** |
+| 📦 Public Repos | **27** |
 | 👥 Followers | **7** |
 | ⭐ Total Stars | **6** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **1130** |
+| 🟩 Total Contributions (this year) | **1132** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **0 days** | **67 days** | **160** |
-| N/A → N/A | 04/28 → 07/03 | this year |
+| **1 days** | **67 days** | **161** |
+| 10/15 → 10/15 | 04/28 → 07/03 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` █████████████░░░░░░░ 67%
-`HTML          ` ███░░░░░░░░░░░░░░░░░ 13%
+`JavaScript    ` █████████████░░░░░░░ 64%
+`HTML          ` ██░░░░░░░░░░░░░░░░░░ 12%
 `TypeScript    ` ██░░░░░░░░░░░░░░░░░░ 8%
+`CSS           ` █░░░░░░░░░░░░░░░░░░░ 4%
 `Python        ` █░░░░░░░░░░░░░░░░░░░ 4%
-`Java          ` █░░░░░░░░░░░░░░░░░░░ 4%
 
-> ⏱️ *Auto-updated: Thu, 15 Oct 2026 02:56:01 GMT*
+> ⏱️ *Auto-updated: Thu, 15 Oct 2026 10:45:58 GMT*
 <!-- LIVE-STATS:END -->
 
 ---

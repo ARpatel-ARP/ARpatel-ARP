@@ -168,24 +168,24 @@ Real-time chat platform built using Socket.io
 | 👥 Followers | **7** |
 | ⭐ Total Stars | **6** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **1132** |
+| 🟩 Total Contributions (this year) | **1133** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **1 days** | **67 days** | **161** |
-| 10/15 → 10/15 | 04/28 → 07/03 | this year |
+| **2 days** | **67 days** | **162** |
+| 10/15 → 10/16 | 04/28 → 07/03 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` █████████████░░░░░░░ 64%
+`JavaScript    ` ██████████████░░░░░░ 68%
 `HTML          ` ██░░░░░░░░░░░░░░░░░░ 12%
 `TypeScript    ` ██░░░░░░░░░░░░░░░░░░ 8%
-`CSS           ` █░░░░░░░░░░░░░░░░░░░ 4%
 `Python        ` █░░░░░░░░░░░░░░░░░░░ 4%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 4%
 
-> ⏱️ *Auto-updated: Fri, 16 Oct 2026 15:58:28 GMT*
+> ⏱️ *Auto-updated: Fri, 16 Oct 2026 20:26:14 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
